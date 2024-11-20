@@ -1,5 +1,3 @@
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrapheuse&label=Profile%20views&color=0e75b6&style=flat" alt="agrapheuse" /> </p>
 
 ###
@@ -10,8 +8,8 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=agrapheuse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="agrapheuse's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrapheuse&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="agrapheuse's GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=agrapheuse&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="agrapheuse's GitHub Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrapheuse&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="agrapheuse's GitHub Stats" />
 </div>
 
 ###
