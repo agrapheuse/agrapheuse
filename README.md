@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrapheuse&theme=dark" alt="agrapheuse" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agrapheuse&theme=dark" alt="GitHub Streak" /></a></p>
 </div>
 
 ###
