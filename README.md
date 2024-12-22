@@ -30,6 +30,7 @@
 
 ###
 
+
 - I’m currently working on [cinema-app-frontend](https://github.com/agrapheuse/cinema-app-frontend),[cinema-app-backend](https://github.com/agrapheuse/cinema-app-dotnet) and [cinema-app-scraping](https://github.com/agrapheuse/cinema-app-scraping)
 
 - I’m currently learning **Nextjs**, **ASP.NET Core**, **Tailwind**
